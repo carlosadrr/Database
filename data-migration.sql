@@ -1,3 +1,2 @@
 insert into CustomersTarget
-	from 
-		select * from CustomersSource
+	select * from CustomersSource
